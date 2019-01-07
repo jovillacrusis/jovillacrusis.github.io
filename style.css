@@ -7,13 +7,14 @@ body {
   font-size: 20px;
   color: white;
   background-color: black;
-  background-image: url("https://media.giphy.com/media/ukqrCYJwevIPYae3Xa/giphy.gif")
-  no-repeat: top;
+  background-image: url("https://media.giphy.com/media/ukqrCYJwevIPYae3Xa/giphy.gif");
+  background-repeat: no-repeat;
+  background-position: top;
 }
 
 }
 h1, h2 {
-  font-family: pompiere, sans-serif;
+  font-family: 'pompiere', sans-serif;
   font-size: 30px;
   color: white;
   background-color: black;
