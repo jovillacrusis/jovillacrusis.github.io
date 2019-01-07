@@ -1,0 +1,63 @@
+/* More Somewhere Than Here */
+
+body {
+  margin: 0;
+  padding: 10px;
+  font-family: pompiere;
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  background-image: url("https://media.giphy.com/media/ukqrCYJwevIPYae3Xa/giphy.gif")
+  no-repeat: top;
+}
+
+}
+h1, h2 {
+  font-family: pompiere, sans-serif;
+  font-size: 30px;
+  color: white;
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+article {
+    padding: 340px;
+    border: 1px transparent;
+    line-height: 1.6;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 70em;
+}
+
+hr { 
+    border-width: 2px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 100px;
+  padding: 0;
+  overflow: hidden;
+  background-color: transparent;
+  text-align: center;
+}
+
+li {
+  display: inline;
+}
+
+li a {
+  display: transparent;
+  color: white;
+  padding: 14px 14px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: black;
+}
+
+
+
+
