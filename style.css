@@ -27,11 +27,7 @@ article {
     line-height: 1.6;
     margin-left: auto;
     margin-right: auto;
-    max-width: 70em;
-    font-family: pompiere;
-    font-size: 20px;
-    color: white;
-    background-color: black;
+    max-width: 70em
 }
 
 hr { 
